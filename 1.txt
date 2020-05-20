@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B859-A8A2
+
+ Directory of C:\Users\Administrator\Github
+
+05/20/2020  05:32 PM    <DIR>          .
+05/20/2020  05:32 PM    <DIR>          ..
+05/20/2020  05:32 PM                 0 1.txt
+05/20/2020  05:27 PM                 5 hub.txt
+               2 File(s)              5 bytes
+               2 Dir(s)  24,215,560,192 bytes free
